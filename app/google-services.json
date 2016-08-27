@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "818366538769",
+    "firebase_url": "https://picmap-f1770.firebaseio.com",
+    "project_id": "picmap-f1770",
+    "storage_bucket": "picmap-f1770.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818366538769:android:c87e6093830fc0cb",
+        "android_client_info": {
+          "package_name": "aca.com.imagegallery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818366538769-33nfolldalioh2dm9i283etesb5b7i4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2qiSWfO27mmetc7NXBYIdFon6gQw8RgY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818366538769:android:e81afcb3332cc2ac",
+        "android_client_info": {
+          "package_name": "com.picmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818366538769-33nfolldalioh2dm9i283etesb5b7i4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2qiSWfO27mmetc7NXBYIdFon6gQw8RgY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
